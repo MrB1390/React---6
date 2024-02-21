@@ -1,0 +1,6 @@
+.edit-photo{
+    width: 192px; /* Set the width of the square box */
+    height: 192px; /* Set the height of the square box */
+    background-color: #ccc; 
+    border: 1px solid black
+}
